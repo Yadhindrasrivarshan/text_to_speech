@@ -1,0 +1,4 @@
+Guys make sure that you have installed the modules
+1. googletrans -> pip install googletrans
+2. gtts --> pip install gtts
+3. pygame--> pip install pygame
